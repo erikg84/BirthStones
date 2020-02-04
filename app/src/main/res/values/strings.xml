@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TwitterFeed</string>
+    <string name="title">Title</string>
+    <string name="description">Description to some randome text is her and more will come.</string>
+    <string name="username">UserName</string>
+    <string name="garnet">JANUARY,AQUARIUS, GARNET STONE
+Garnets are a group of silicate minerals that have been used since the Bronze Age as gemstones and abrasives.</string>
+    <string name="amethyst">FEBRUARY,PICSIS, AMETHYST
+A violet variety of quartz, the ancient Greeks wore amethyst and carved drinking vessels from it in the belief that it would prevent intoxication.</string>
+    <string name="bloodstone">MARCH, ARIES, BLOODSTONE
+The red inclusions are supposed to resemble spots of blood, hence the name bloodstone. The name heliotrope derives from various ancient notions about the manner in which the mineral reflects light.</string>
+    <string name="diamond">APRIL, TAURUS, DIAMOND
+Commonly, natural sapphires are cut and polished into gemstones and worn in jewelry.</string>
+    <string name="agate">MAY, GEMINI, AGATE
+Although agates may be found in various kinds of host rock, they are classically associated with volcanic rocks and can be common in certain metamorphic rocks.</string>
+    <string name="emerald">JUNE, CANCER, EMERALD
+Emeralds, like all colored gemstones, are graded using four basic parameters–the four Cs of connoisseurship: color, clarity, cut and carat weight.</string>
+    <string name="onyx">JULY, LEO, ONYX
+Onyx primarily refers to the parallel banded variety of the silicate mineral chalcedony.</string>
+    <string name="carnelian">AUGUST, VIRGO, CARNELIAN
+Carnelian (also spelled cornelian[2]) is a brownish-red mineral commonly used as a semi-precious gemstone.</string>
+    <string name="chrysolite">SEPTEMBER, LIBRA, CHRYSOLITE
+Peridot is one of the few gemstones that occur in only one color: an olive-green.</string>
+    <string name="beryl">OCTOBER, SCORPIO, BERYL
+Pure beryl is colorless, but it is frequently tinted by impurities; possible colors are green, blue, yellow, red (the rarest), and white. Beryl is also an ore source of beryllium.</string>
+    <string name="topaz">NOVEMBER, SAGITTARIUS, TOPAZ
+Topaz crystallizes in the orthorhombic system, and its crystals are mostly prismatic terminated by pyramidal and other faces.</string>
+    <string name="ruby">DECEMBER, CAPRICORN, RUBY
+The quality of a ruby is determined by its color, cut, and clarity, which, along with carat weight, affect its value.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
